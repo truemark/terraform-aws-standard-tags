@@ -1,4 +1,4 @@
 output "tags" {
   description = "Tags"
-  value = local.tags
+  value       = local.tags
 }
